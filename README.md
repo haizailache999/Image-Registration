@@ -1,5 +1,5 @@
 # ATOM: align tissue plane back to organ volume dataset
-ATOM is a dataset which 
+This is ATOM dataset with RegisMCAN code.
 
 
 ## Data
