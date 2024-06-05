@@ -1,0 +1,3 @@
+We strong recommand you to first check the DataGenerator_others.py before using the ADNI dataset, because Datagenerator of ADNI
+(DataGenerator_MRI.py) has almost the same structure as DataGenerator_others.py, but DataGenerator_others.py has the full annotation 
+to help you understand the code logic.
