@@ -1,3 +1,2 @@
 # ATOM: align tissue plane back to organ volume dataset
-
-##aa
+ATOM is a dataset which 
