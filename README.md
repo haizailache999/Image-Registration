@@ -1,6 +1,6 @@
 # ATOM: align tissue plane back to organ volume dataset
 This is ATOM dataset with RegisMCAN code.
-
+<img src='total_github.png'/>
 
 ## Data
 Before running, you should first download the data from https://drive.google.com/drive/folders/1QeW3oO09tKILnoNskrBL3dnvJgKQsQSb?usp=drive_link. This will help you to get a folder called data_pkl. And you should put it in the same folder as the code. (Same file hierarchy as train.py)
